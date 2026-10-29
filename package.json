@@ -1,0 +1,18 @@
+{
+  "name": "nons-plugin-ncm-converter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "nons-plugin build",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@nonsplayer/plugin-sdk": "^2.1.0",
+    "@types/react": "^19.1.8",
+    "jsdom": "^30.1.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "typescript": "~6.0.3"
+  }
+}
